@@ -2,4 +2,4 @@
 
 cd Jeet-Bai
 
-Python2 JEET-VAU.py
+Python2 JEET-BAI.py
